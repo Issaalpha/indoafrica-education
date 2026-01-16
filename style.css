@@ -411,8 +411,8 @@ body {
 }
 
 .flight-no {
-    color: #dc3545;
-    border: 2px solid #dc3545;
+    color: #1e90ff;
+    border: 2px solid #1e90ff;
 }
 
 .card-actions {
@@ -926,3 +926,4 @@ body {
 .uni-name {
     flex: 1;
 }
+
